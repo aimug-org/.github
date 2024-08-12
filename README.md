@@ -28,6 +28,7 @@ Held on the first or second Wednseday of the month - 6-9 PM in downtown austin. 
 **Office Hours** - Open Discussion on Voice / Video. Every Tuesday at 2-3 PM Central - [Discord - Meeting Room](https://discord.gg/fjQfpwcsZX)
 
 **Community Call** - Planning and review for our events, then open forum. Every Thursday from 2-3 PM Central - [meet.aimug.org](https://meet.aimug.org/session/1b5321b1-e360-4b4a-bc33-9307dc4782de)
+
 ---
 
 ### 🤝 Get Involved

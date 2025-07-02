@@ -25,9 +25,9 @@ Held on the first or second Wednseday of the month - 6-9 PM in downtown austin. 
 
 **Hacky Hour for Austin LangChain Users Group @ a Local Bar** two Weeks after showcase 6:00 PM - 8:00 PM Central [here](https://www.meetup.com/austin-langchain-ai-group/events/300593457/)
 
-**Office Hours** - Open Discussion on Voice / Video. Every Tuesday at 2-3 PM Central - [Discord - Meeting Room](https://discord.gg/fjQfpwcsZX)
+**Office Hours** - Open Discussion on Voice / Video. Every Tuesday at 5-6 PM Central - [Google Meet]([https://meet.google.com/fsm-nawg-cng](https://meet.google.com/fsm-nawg-cng))
 
-**Community Call** - Planning and review for our events, then open forum. Every Thursday from 2-3 PM Central - [meet.aimug.org](https://meet.aimug.org/session/1b5321b1-e360-4b4a-bc33-9307dc4782de)
+
 
 ---
 
